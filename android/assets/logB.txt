@@ -1,0 +1,11 @@
+                 StadiumScreen: set player client
+                 StadiumScreen: connect client
+                 StadiumScreen: generateSpritesFromFiles
+                 StadiumScreen: load net with RubeSceneLoader
+                 StadiumScreen - CLIENT: CONNECTED_USERS_CHANGED
+                 StadiumScreen: createUI
+                 StadiumScreen: generate field elements
+                 StadiumScreen: addContactListenerToWorld
+                 StadiumScreen: generateTeam - own team - team_B
+                 StadiumScreen: generate team for User_B
+                 StadiumScreen: generate kits for User_B
